@@ -2,6 +2,7 @@
 
 [![linkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-ruan-3219a8225)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yuriruan_)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561995776932&text=ol%C3%A1%20Yuri!%20Vim%20atrav%C3%A9s%20do%20seu%20perfil%20do%20Github.)
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriruan2021&show_icons=true&theme=dracula)
 
@@ -16,6 +17,6 @@
 <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 
-</div><br/>
+</div> <br/>
 
 “Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.” – Rafael Lain
